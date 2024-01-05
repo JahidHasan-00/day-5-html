@@ -21,3 +21,10 @@ section>p{
     font-size: 16px;
     color: rgb(255, 247, 7);
 }
+figure{
+    text-align: center;
+}
+figure>img{
+    display: block;
+    width: 100%;
+}
